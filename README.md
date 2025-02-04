@@ -1,7 +1,17 @@
-# Task-1-PBI
-
-
 #### SALES DASHBOARD ####
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+ **NAME** : NERUSU MADHU JAHNAVI
+
+**INTERNID** : CT6WNSZ
+
+**DOMAIN** : POWER BI
+
+**DURATION** : 6 WEEKS
+
+
+#### DESCRIPTION ####
 
 Power BI dashboard showing sales trends, top products, and regional performance using sample data
 
