@@ -1,4 +1,4 @@
-#### SALES DASHBOARD ####
+
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
@@ -12,6 +12,9 @@
 
 
 #### DESCRIPTION ####
+
+#### SALES DASHBOARD ####
+
 
 Power BI dashboard showing sales trends, top products, and regional performance using sample data
 
