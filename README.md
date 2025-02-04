@@ -69,10 +69,13 @@ Format titles, axis labels, and data labels for better readability.
 Step 7: Publish and Share the Dashboard
 
 Publish it to the Power BI Service by clicking Publish in Power BI Desktop.
-This setup will give a comprehensive view of the sales data and allow you to analyze trends, product performance, and region data success in one dashboard.
+This setup will give a comprehensive view of the sales data and allow to analyze trends, product performance, and region data success in one dashboard.
 
 
 Sales Dashboard:https://app.powerbi.com/groups/me/reports/2b93a173-8304-4d6f-b462-67f157917a88/ReportSection?experience=power-bi
+
+
+![Image](https://github.com/user-attachments/assets/66592708-37f3-491e-b600-853d4991a495)
 
 
 
